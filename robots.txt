@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://valentinpastorale2-bot.github.io/winesboutique/sitemap.xml
